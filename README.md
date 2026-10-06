@@ -34,10 +34,3 @@ külön **nyomtatási nézetet** nyit meg. Ez stabilabban működik, jobb oldalt
 
 A tanuló a megnyíló ablakban a böngésző **Nyomtatás / Mentés PDF-ként**
 funkciójával mentheti el az eredménylapot.
-
-
-## PDF letöltés – popup nélküli javítás
-
-Ebben a változatban a PDF-készítés **nem nyit új ablakot**.
-A rendszer egy rejtett, rendezett exportnézetből készíti el a PDF-et,
-és a fájl közvetlenül letöltődik a böngészőn keresztül.
