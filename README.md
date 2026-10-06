@@ -24,3 +24,13 @@ Az `app.js` elején a `minutes:30` érték írható át.
 
 ## Csalás elleni korlát
 A megoldás GitHub Pages miatt teljesen kliensoldali. A keverés, a visszalépés tiltása, a teljes képernyő, a fókuszvesztés-számlálás és a hash-alapú válaszellenőrzés csökkenti az egyszerű csalás lehetőségét, de fejlesztői eszközökkel egy statikus oldal nem tehető teljesen vizsgabiztossá. Szigorú vizsgához Moodle vagy más szerveroldali rendszer szükséges.
+
+
+## PDF-javítás
+
+A korábbi képernyőkép-alapú PDF export helyett ez a javított változat
+külön **nyomtatási nézetet** nyit meg. Ez stabilabban működik, jobb oldaltöréseket ad,
+és a részletes válaszlistát is teljes egészében megjeleníti.
+
+A tanuló a megnyíló ablakban a böngésző **Nyomtatás / Mentés PDF-ként**
+funkciójával mentheti el az eredménylapot.
